@@ -17,11 +17,11 @@ if (BigInteger.TryParse(input, out BigInteger num))
         if (num > 1)
         {
             list[1] = 1;
-        }
 
-        for (int i = 2; i < num; i++)
-        {
-            list[i] = list[i - 1] + list[i - 2];
+            for (int i = 2; i < num; i++)
+            {
+                list[i] = list[i - 1] + list[i - 2];
+            }
         }
 
         BigInteger sum = 0;
