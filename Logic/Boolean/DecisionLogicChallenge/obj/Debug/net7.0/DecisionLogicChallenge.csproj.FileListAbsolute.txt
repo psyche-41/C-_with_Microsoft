@@ -1,0 +1,14 @@
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\Boolean\DecisionLogicChallenge\bin\Debug\net7.0\DecisionLogicChallenge.exe
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\Boolean\DecisionLogicChallenge\bin\Debug\net7.0\DecisionLogicChallenge.deps.json
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\Boolean\DecisionLogicChallenge\bin\Debug\net7.0\DecisionLogicChallenge.runtimeconfig.json
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\Boolean\DecisionLogicChallenge\bin\Debug\net7.0\DecisionLogicChallenge.dll
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\Boolean\DecisionLogicChallenge\bin\Debug\net7.0\DecisionLogicChallenge.pdb
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\Boolean\DecisionLogicChallenge\obj\Debug\net7.0\DecisionLogicChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\Boolean\DecisionLogicChallenge\obj\Debug\net7.0\DecisionLogicChallenge.AssemblyInfoInputs.cache
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\Boolean\DecisionLogicChallenge\obj\Debug\net7.0\DecisionLogicChallenge.AssemblyInfo.cs
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\Boolean\DecisionLogicChallenge\obj\Debug\net7.0\DecisionLogicChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\Boolean\DecisionLogicChallenge\obj\Debug\net7.0\DecisionLogicChallenge.dll
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\Boolean\DecisionLogicChallenge\obj\Debug\net7.0\refint\DecisionLogicChallenge.dll
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\Boolean\DecisionLogicChallenge\obj\Debug\net7.0\DecisionLogicChallenge.pdb
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\Boolean\DecisionLogicChallenge\obj\Debug\net7.0\DecisionLogicChallenge.genruntimeconfig.cache
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\Boolean\DecisionLogicChallenge\obj\Debug\net7.0\ref\DecisionLogicChallenge.dll

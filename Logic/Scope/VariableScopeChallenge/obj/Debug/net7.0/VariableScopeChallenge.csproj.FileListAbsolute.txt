@@ -1,0 +1,14 @@
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\Logic\Scope\VariableScopeChallenge\obj\Debug\net7.0\VariableScopeChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\Logic\Scope\VariableScopeChallenge\obj\Debug\net7.0\VariableScopeChallenge.AssemblyInfoInputs.cache
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\Logic\Scope\VariableScopeChallenge\obj\Debug\net7.0\VariableScopeChallenge.AssemblyInfo.cs
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\Logic\Scope\VariableScopeChallenge\obj\Debug\net7.0\VariableScopeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\Logic\Scope\VariableScopeChallenge\bin\Debug\net7.0\VariableScopeChallenge.exe
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\Logic\Scope\VariableScopeChallenge\bin\Debug\net7.0\VariableScopeChallenge.deps.json
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\Logic\Scope\VariableScopeChallenge\bin\Debug\net7.0\VariableScopeChallenge.runtimeconfig.json
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\Logic\Scope\VariableScopeChallenge\bin\Debug\net7.0\VariableScopeChallenge.dll
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\Logic\Scope\VariableScopeChallenge\bin\Debug\net7.0\VariableScopeChallenge.pdb
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\Logic\Scope\VariableScopeChallenge\obj\Debug\net7.0\VariableScopeChallenge.dll
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\Logic\Scope\VariableScopeChallenge\obj\Debug\net7.0\refint\VariableScopeChallenge.dll
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\Logic\Scope\VariableScopeChallenge\obj\Debug\net7.0\VariableScopeChallenge.pdb
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\Logic\Scope\VariableScopeChallenge\obj\Debug\net7.0\VariableScopeChallenge.genruntimeconfig.cache
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\Logic\Scope\VariableScopeChallenge\obj\Debug\net7.0\ref\VariableScopeChallenge.dll

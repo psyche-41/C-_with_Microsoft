@@ -1,0 +1,14 @@
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\Boolean\TossCoin\bin\Debug\net7.0\TossCoin.exe
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\Boolean\TossCoin\bin\Debug\net7.0\TossCoin.deps.json
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\Boolean\TossCoin\bin\Debug\net7.0\TossCoin.runtimeconfig.json
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\Boolean\TossCoin\bin\Debug\net7.0\TossCoin.dll
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\Boolean\TossCoin\bin\Debug\net7.0\TossCoin.pdb
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\Boolean\TossCoin\obj\Debug\net7.0\TossCoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\Boolean\TossCoin\obj\Debug\net7.0\TossCoin.AssemblyInfoInputs.cache
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\Boolean\TossCoin\obj\Debug\net7.0\TossCoin.AssemblyInfo.cs
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\Boolean\TossCoin\obj\Debug\net7.0\TossCoin.csproj.CoreCompileInputs.cache
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\Boolean\TossCoin\obj\Debug\net7.0\TossCoin.dll
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\Boolean\TossCoin\obj\Debug\net7.0\refint\TossCoin.dll
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\Boolean\TossCoin\obj\Debug\net7.0\TossCoin.pdb
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\Boolean\TossCoin\obj\Debug\net7.0\TossCoin.genruntimeconfig.cache
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\Boolean\TossCoin\obj\Debug\net7.0\ref\TossCoin.dll

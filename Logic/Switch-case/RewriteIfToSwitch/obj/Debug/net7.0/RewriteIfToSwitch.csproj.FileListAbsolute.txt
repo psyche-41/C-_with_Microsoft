@@ -1,0 +1,14 @@
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\Logic\Switch-case\RewriteIfToSwitch\bin\Debug\net7.0\RewriteIfToSwitch.exe
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\Logic\Switch-case\RewriteIfToSwitch\bin\Debug\net7.0\RewriteIfToSwitch.deps.json
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\Logic\Switch-case\RewriteIfToSwitch\bin\Debug\net7.0\RewriteIfToSwitch.runtimeconfig.json
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\Logic\Switch-case\RewriteIfToSwitch\bin\Debug\net7.0\RewriteIfToSwitch.dll
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\Logic\Switch-case\RewriteIfToSwitch\bin\Debug\net7.0\RewriteIfToSwitch.pdb
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\Logic\Switch-case\RewriteIfToSwitch\obj\Debug\net7.0\RewriteIfToSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\Logic\Switch-case\RewriteIfToSwitch\obj\Debug\net7.0\RewriteIfToSwitch.AssemblyInfoInputs.cache
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\Logic\Switch-case\RewriteIfToSwitch\obj\Debug\net7.0\RewriteIfToSwitch.AssemblyInfo.cs
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\Logic\Switch-case\RewriteIfToSwitch\obj\Debug\net7.0\RewriteIfToSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\Logic\Switch-case\RewriteIfToSwitch\obj\Debug\net7.0\RewriteIfToSwitch.dll
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\Logic\Switch-case\RewriteIfToSwitch\obj\Debug\net7.0\refint\RewriteIfToSwitch.dll
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\Logic\Switch-case\RewriteIfToSwitch\obj\Debug\net7.0\RewriteIfToSwitch.pdb
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\Logic\Switch-case\RewriteIfToSwitch\obj\Debug\net7.0\RewriteIfToSwitch.genruntimeconfig.cache
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\Logic\Switch-case\RewriteIfToSwitch\obj\Debug\net7.0\ref\RewriteIfToSwitch.dll
