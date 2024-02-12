@@ -1,45 +1,73 @@
 ﻿using System;
 using System.Numerics;
 
-Console.Write("Number of the Sequence: ");
-string input = Console.ReadLine().Trim();
+bool continueProgram = true;
 
-if (BigInteger.TryParse(input, out BigInteger num))
+while (continueProgram)
 {
-    if (num <= 0)
+    try
     {
-        Console.WriteLine("Please enter a positive integer.");
-    }
-    else
-    {
-        BigInteger[] list = new BigInteger[(int)num];
-        list[0] = 0;
-        if (num > 1)
-        {
-            list[1] = 1;
+        Console.Write("Number of the Sequence: ");
+        string input = Console.ReadLine().Trim();
 
-            for (int i = 2; i < num; i++)
+        BigInteger num = BigInteger.Parse(input);
+
+        if (num <= 0)
+        {
+            Console.WriteLine("Please enter a positive integer.");
+        }
+        else
+        {
+            BigInteger[] list = new BigInteger[(int)num];
+            list[0] = 0;
+            if (num > 1)
             {
-                list[i] = list[i - 1] + list[i - 2];
+                list[1] = 1;
+
+                for (int i = 2; i < num; i++)
+                {
+                    list[i] = list[i - 1] + list[i - 2];
+                }
+            }
+
+            BigInteger sum = 0;
+            for (int i = 0; i < num; i++)
+            {
+                Console.Write(list[i]);
+                sum += list[i];
+                if (i < (int)num - 1)
+                {
+                    Console.Write(", ");
+                }
+            }
+
+            Console.WriteLine("\n\nThe sum of the sequence is " + sum);
+
+            Console.WriteLine("\n\nDo you wish to continue? y|n : ");
+            char response = Console.ReadKey().KeyChar;
+            if (response == 'y' || response == 'Y')
+            {
+                // Continue with the program
+                Console.WriteLine("\n\nContinuing...");
+            }
+            else if (response == 'n' || response == 'N')
+            {
+                // Exit or break from the loop
+                Console.WriteLine("\n\nExiting...");
+                continueProgram = false;
+            }
+            else
+            {
+                Console.WriteLine("\n\nInvalid input. Please enter 'y' for yes or 'n' for no.");
             }
         }
-
-        BigInteger sum = 0;
-        for (int i = 0; i < num; i++)
-        {
-            Console.Write(list[i]);
-            sum += list[i];
-            if (i < (int)num - 1)
-            {
-                Console.Write(", ");
-            }
-        }
-
-        Console.WriteLine();
-        Console.WriteLine("The sum of the sequence is " + sum);
     }
-}
-else
-{
-    Console.WriteLine("Invalid input. Please enter a valid integer.");
+    catch (FormatException)
+    {
+        Console.WriteLine("Invalid input. Please enter a valid integer.");
+    }
+    catch (Exception ex)
+    {
+        Console.WriteLine("An error occurred: " + ex.Message);
+    }
 }
