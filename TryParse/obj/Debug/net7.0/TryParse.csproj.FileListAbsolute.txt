@@ -1,0 +1,14 @@
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\TryParse\bin\Debug\net7.0\TryParse.exe
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\TryParse\bin\Debug\net7.0\TryParse.deps.json
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\TryParse\bin\Debug\net7.0\TryParse.runtimeconfig.json
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\TryParse\bin\Debug\net7.0\TryParse.dll
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\TryParse\bin\Debug\net7.0\TryParse.pdb
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\TryParse\obj\Debug\net7.0\TryParse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\TryParse\obj\Debug\net7.0\TryParse.AssemblyInfoInputs.cache
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\TryParse\obj\Debug\net7.0\TryParse.AssemblyInfo.cs
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\TryParse\obj\Debug\net7.0\TryParse.csproj.CoreCompileInputs.cache
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\TryParse\obj\Debug\net7.0\TryParse.dll
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\TryParse\obj\Debug\net7.0\refint\TryParse.dll
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\TryParse\obj\Debug\net7.0\TryParse.pdb
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\TryParse\obj\Debug\net7.0\TryParse.genruntimeconfig.cache
+C:\Users\Rence\OneDrive - University of the Philippines\VScode\CsharpProjects\TryParse\obj\Debug\net7.0\ref\TryParse.dll
